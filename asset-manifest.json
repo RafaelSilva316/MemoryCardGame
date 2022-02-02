@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bfaa35f.css",
+    "main.js": "/static/js/main.2f2c6f90.js",
+    "static/media/JoyceBrothers.jpg": "/static/media/JoyceBrothers.986973c844b20e7fb214.jpg",
+    "static/media/NiseDaSilveira.png": "/static/media/NiseDaSilveira.89a4e08eefedc3674534.png",
+    "static/media/CarlJung.jpg": "/static/media/CarlJung.673400fbd9909b4c3b9a.jpg",
+    "static/media/JaneAddams.jpg": "/static/media/JaneAddams.572655b6a2522bc0f4df.jpg",
+    "static/media/LisaFeldman.jpg": "/static/media/LisaFeldman.79df4660279c970764a7.jpg",
+    "static/media/MarthaBernal.jpg": "/static/media/MarthaBernal.2820236b282a9baac7af.jpg",
+    "static/media/EndelTulving.jpg": "/static/media/EndelTulving.0a5a56dc0998c7294c9b.jpg",
+    "static/media/AbrahamMaslow.webp": "/static/media/AbrahamMaslow.2bf51f054e69c25351ed.webp",
+    "static/media/BFSkinner.webp": "/static/media/BFSkinner.725ef5cf243322c16ee0.webp",
+    "static/media/KobiKambon.jpg": "/static/media/KobiKambon.7d6ad20524fbda327198.jpg",
+    "index.html": "/index.html",
+    "main.5bfaa35f.css.map": "/static/css/main.5bfaa35f.css.map",
+    "main.2f2c6f90.js.map": "/static/js/main.2f2c6f90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfaa35f.css",
+    "static/js/main.2f2c6f90.js"
+  ]
+}
